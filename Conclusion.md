@@ -30,7 +30,7 @@ Ofrece una reflexión sobre la importancia del tema discutido. ¿Qué implicacio
 
 Termina con una frase poderosa o una cita relevante que deje una impresión duradera. El objetivo es concluir de manera memorable y efectiva.
 
-![Cierre Impactante](https://img.freepik.com/vector-premium/impactante-mujer-gafas-dice-omg-boca-cerrada-manos-falling-down-money-pop-art-comic-style_113655-684.jpg?w=826)
+![Reafirmese la Tesis](https://upload.wikimedia.org/wikipedia/commons/e/eb/Impact_font.svg)
 
 Para más información, vaya a las siguientes fuentes:
 
