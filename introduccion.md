@@ -35,7 +35,7 @@ Los terminos clave del tema a tratar son importantes de definir dentro de un ens
 # Presentación de la tesis
 Esta se presenta con tal de mostrar al lector cuál va a ser el núcleo del ensayo, ya que alrededor de esta se genera toda la estructura argumentativa. Esta debe tener un verbo principal, el cual indique la posición positiva o negativa del escritor en función del tema a tratar, y a partir de ella debe desarrollar su argumento.
 
-![Tesis](/media/tesis.png)
+![Tesis](/media/tesis.jpg)
 
 ## Links
 * [Fuente 1] https://www.youtube.com/watch?v=zHPrROP_ycM
